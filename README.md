@@ -3,7 +3,7 @@ musiclib
 
 ## Introduction
 
- A school project of a music social network. It was curiously quiet fine for a 2013 second year Computer Science university.
+ A school project of a music social network. It was curiously quite fine for a 2013 second year Computer Science university.
  
  I did most of the work on the admin panel (back-end and front-end) with another classmate.
 
